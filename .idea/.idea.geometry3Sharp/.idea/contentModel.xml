@@ -182,6 +182,7 @@
           <e p="Box2.cs" t="Include" />
           <e p="Box3.cs" t="Include" />
           <e p="FastWindingMath.cs" t="Include" />
+          <e p="Frame3d.cs" t="Include" />
           <e p="Frame3f.cs" t="Include" />
           <e p="IndexTypes.cs" t="Include" />
           <e p="IndexUtil.cs" t="Include" />
@@ -254,6 +255,7 @@
           <e p="Reducer.cs" t="Include" />
           <e p="RegionRemesher.cs" t="Include" />
           <e p="Remesher.cs" t="Include" />
+          <e p="RemesherPro.cs" t="Include" />
           <e p="SimpleMesh.cs" t="Include" />
           <e p="SimpleQuadMesh.cs" t="Include" />
         </e>
@@ -264,6 +266,7 @@
           <e p="DiscGenerators.cs" t="Include" />
           <e p="GenCylGenerators.cs" t="Include" />
           <e p="MarchingCubes.cs" t="Include" />
+          <e p="MarchingCubesPro.cs" t="Include" />
           <e p="MeshGenerators.cs" t="Include" />
           <e p="PlaneGenerators.cs" t="Include" />
           <e p="PointsMeshGenerators.cs" t="Include" />
@@ -273,24 +276,41 @@
           <e p="VoxelSurfaceGenerator.cs" t="Include" />
         </e>
         <e p="mesh_ops" t="Include">
+          <e p="AutoHoleFill.cs" t="Include" />
           <e p="LaplacianMeshDeformer.cs" t="Include" />
           <e p="LaplacianMeshSmoother.cs" t="Include" />
+          <e p="MergeCoincidentEdges.cs" t="Include" />
+          <e p="MeshAssembly.cs" t="Include" />
+          <e p="MeshAutoRepair.cs" t="Include" />
+          <e p="MeshBoolean.cs" t="Include" />
           <e p="MeshExtrudeFaces.cs" t="Include" />
           <e p="MeshExtrudeLoop.cs" t="Include" />
           <e p="MeshExtrudeMesh.cs" t="Include" />
           <e p="MeshICP.cs" t="Include" />
           <e p="MeshInsertPolygon.cs" t="Include" />
+          <e p="MeshInsertProjectedPolygon.cs" t="Include" />
           <e p="MeshInsertUVPolyCurve.cs" t="Include" />
           <e p="MeshIsoCurves.cs" t="Include" />
           <e p="MeshIterativeSmooth.cs" t="Include" />
           <e p="MeshLocalParam.cs" t="Include" />
           <e p="MeshLoopClosure.cs" t="Include" />
           <e p="MeshLoopSmooth.cs" t="Include" />
+          <e p="MeshMeshCut.cs" t="Include" />
           <e p="MeshOps.cs" t="Include" />
           <e p="MeshPlaneCut.cs" t="Include" />
+          <e p="MeshRepairOrientation.cs" t="Include" />
+          <e p="MeshSpatialSort.cs" t="Include" />
+          <e p="MeshStitchLoops.cs" t="Include" />
+          <e p="MeshTopology.cs" t="Include" />
+          <e p="MeshTrimLoop.cs" t="Include" />
+          <e p="MinimalHoleFill.cs" t="Include" />
           <e p="PlanarHoleFiller.cs" t="Include" />
+          <e p="PlanarSpansFiller.cs" t="Include" />
           <e p="RegionOperator.cs" t="Include" />
+          <e p="RemoveDuplicateTriangles.cs" t="Include" />
+          <e p="RemoveOccludedTriangles.cs" t="Include" />
           <e p="SimpleHoleFiller.cs" t="Include" />
+          <e p="SmoothedHoleFill.cs" t="Include" />
         </e>
         <e p="mesh_selection" t="Include">
           <e p="MeshBoundaryLoops.cs" t="Include" />

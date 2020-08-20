@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a7353ff0-a69a-4c2e-97ff-10a346e0e7bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/Unity.geometry3Sharp.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/mesh_ops/MeshExtrudeLoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshExtrudeLoop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/math/Quaterniond.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Quaterniond.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geometry3Sharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/geometry3Sharp.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +38,12 @@
       <list>
         <option value="$PROJECT_DIR$/flange/Class1.cs" />
         <option value="$PROJECT_DIR$/Runtime/mesh_ops/MeshExtrudeLoop.cs" />
+        <option value="$PROJECT_DIR$/Runtime/math/Quaterniond.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1gMXHXatEgqbNufv9OPFfroZEIo" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -67,8 +84,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597925350238</updated>
-      <workItem from="1597925355221" duration="1161000" />
+      <workItem from="1597925355221" duration="2884000" />
     </task>
+    <task id="LOCAL-00001" summary="Added a solution file, fixed bug reported in PR #94">
+      <created>1597926769032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597926769032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,13 +101,30 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added a solution file, fixed bug reported in PR #94" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a solution file, fixed bug reported in PR #94" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="329" key="Rider.ProjectTemplateDialog.Size" timestamp="1597925435266">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="690" y="329" key="Rider.ProjectTemplateDialog.Size/0.0.2194.1194@0.0.2194.1194" timestamp="1597925435266" />
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2" timestamp="1597926770891">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1597926770891" />
   </component>
 </project>
