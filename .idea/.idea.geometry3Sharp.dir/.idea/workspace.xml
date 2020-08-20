@@ -20,330 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fac6d60-8e57-4561-bc63-ff9c8c19fa46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Runtime/math/Frame3d.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/approximation/BiArcFit2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/approximation/BiArcFit2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/approximation/GaussPointsFit3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/approximation/GaussPointsFit3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/approximation/OrthogonalPlaneFit3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/approximation/OrthogonalPlaneFit3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/approximation/QuadraticFit2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/approximation/QuadraticFit2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/color/ColorHSV.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/color/ColorHSV.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/color/ColorMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/color/ColorMap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/color/ColorMixer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/color/ColorMixer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/color/Colorb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/color/Colorb.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/color/Colorf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/color/Colorf.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comp_geom/Arrangement2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/comp_geom/Arrangement2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comp_geom/ConvexHull2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/comp_geom/ConvexHull2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comp_geom/GraphCells2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/comp_geom/GraphCells2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comp_geom/GraphSplitter2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/comp_geom/GraphSplitter2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comp_geom/SphericalFibonacciPointSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/comp_geom/SphericalFibonacciPointSet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/containment/ContBox3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/containment/ContBox3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/containment/ContMinBox2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/containment/ContMinBox2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/containment/ContMinCircle2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/containment/ContMinCircle2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/containment/TilingUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/containment/TilingUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/BufferUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/BufferUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/CommandArgumentSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/CommandArgumentSet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/DVector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/DVector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/DVectorArray.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/DVectorArray.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/DeepCopy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/DeepCopy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/DijkstraGraphDistance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/DijkstraGraphDistance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/DynamicPriorityQueue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/DynamicPriorityQueue.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/FileSystemUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/FileSystemUtils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/HBitArray.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/HBitArray.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/HashUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/HashUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/IndexPriorityQueue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/IndexPriorityQueue.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Indexing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/Indexing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/MemoryPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/MemoryPool.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/ProfileUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/ProfileUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/ProgressCancel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/ProgressCancel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/RefCountVector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/RefCountVector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/SafeCollections.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/SafeCollections.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/SmallListSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/SmallListSet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Snapping.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/Snapping.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/SparseList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/SparseList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/TagSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/TagSet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Units.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/Units.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Util.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/Util.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/VectorArray.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/VectorArray.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/g3Interfaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/g3Interfaces.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/g3Iterators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/g3Iterators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/gParallel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/core/gParallel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/Arc2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/Arc2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/ArcLengthParam.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/ArcLengthParam.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/BSplineBasis.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/BSplineBasis.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/BaseCurve2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/BaseCurve2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/BezierCurve2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/BezierCurve2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/Circle2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/Circle2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/CurveGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/CurveGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/CurveResampler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/CurveResampler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/CurveSampler2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/CurveSampler2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/CurveUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/CurveUtils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/CurveUtils2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/CurveUtils2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/DCurve3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/DCurve3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/DGraph.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/DGraph.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/DGraph2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/DGraph2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/DGraph2Resampler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/DGraph2Resampler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/DGraph2Util.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/DGraph2Util.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/DGraph3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/DGraph3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/DGraph3Util.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/DGraph3Util.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/Ellipse2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/Ellipse2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/EllipseArc2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/EllipseArc2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/GeneralPolygon2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/GeneralPolygon2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/Hexagon2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/Hexagon2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/ICurve.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/ICurve.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/LaplacianCurveDeformer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/LaplacianCurveDeformer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/NURBSCurve2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/NURBSCurve2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/ParametricCurveSequence2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/ParametricCurveSequence2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/PlanarComplex.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/PlanarComplex.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/PlanarSolid2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/PlanarSolid2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/PolyLine2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/PolyLine2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/PolyLine2f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/PolyLine2f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/PolyLine3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/PolyLine3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/PolySimplification2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/PolySimplification2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/Polygon2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/Polygon2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/PolygonFont2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/PolygonFont2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/SculptCurveDeformers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/SculptCurveDeformers.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve/SimpleCurveDeformers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/curve/SimpleCurveDeformers.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistLine2Line2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistLine2Line2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistLine2Segment2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistLine2Segment2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistLine3Ray3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistLine3Ray3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistLine3Segment3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistLine3Segment3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistLine3Triangle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistLine3Triangle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistPoint2Box2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistPoint2Box2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistPoint2Circle2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistPoint2Circle2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistPoint3Circle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistPoint3Circle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistPoint3Cylinder3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistPoint3Cylinder3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistPoint3Triangle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistPoint3Triangle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistRay3Ray3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistRay3Ray3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistRay3Segment3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistRay3Segment3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistSegment2Segment2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistSegment2Segment2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistSegment3Triangle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistSegment3Triangle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/DistTriangle3Triangle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/DistTriangle3Triangle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/Distance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/distance/Distance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geometry3Sharp.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/geometry3Sharp.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geometry3Sharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/geometry3Sharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/CachingGridImplicit3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/CachingGridImplicit3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/CachingMeshSDF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/CachingMeshSDF.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/FalloffFunctions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/FalloffFunctions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/GridImplicits3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/GridImplicits3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/Implicit2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/Implicit2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/Implicit3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/Implicit3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/ImplicitFieldSampler3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/ImplicitFieldSampler3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/ImplicitOperators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/ImplicitOperators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implicit/MarchingQuads.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/implicit/MarchingQuads.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/Intersector1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/Intersector1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrLine2Line2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrLine2Line2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrLine2Segment2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrLine2Segment2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrLine2Triangle2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrLine2Triangle2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrLine3AxisAlignedBox3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrLine3AxisAlignedBox3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrLine3Box3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrLine3Box3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrRay3AxisAlignedBox3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrRay3AxisAlignedBox3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrRay3Box3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrRay3Box3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrRay3Triangle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrRay3Triangle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrSegment2Segment2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrSegment2Segment2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrSegment2Triangle2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrSegment2Triangle2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrSegment3Box3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrSegment3Box3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrTriangle2Triangle2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrTriangle2Triangle2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intersection/IntrTriangle3Triangle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/intersection/IntrTriangle3Triangle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/BinaryG3ReaderWriter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/BinaryG3ReaderWriter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/MaterialTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/MaterialTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/MeshIO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/MeshIO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/MeshIOUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/MeshIOUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/OBJReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/OBJReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/OBJWriter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/OBJWriter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/OFFReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/OFFReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/OFFWriter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/OFFWriter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/STLReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/STLReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/STLWriter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/STLWriter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/SVGWriter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/SVGWriter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/StandardMeshReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/StandardMeshReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/StandardMeshWriter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/StandardMeshWriter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/gSerialization.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/io/gSerialization.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/AxisAlignedBox2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox2f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/AxisAlignedBox2f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox2i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/AxisAlignedBox2i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/AxisAlignedBox3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox3f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/AxisAlignedBox3f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox3i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/AxisAlignedBox3i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/BoundsUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/BoundsUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Box2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Box2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Box3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Box3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/FastWindingMath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/FastWindingMath.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Frame3f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Frame3f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/IndexTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/IndexTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/IndexUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/IndexUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Integrate1d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Integrate1d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Interval1d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Interval1d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Interval1i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Interval1i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Line2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Line2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Line3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Line3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/MathUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/MathUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Matrix2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Matrix2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Matrix2f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Matrix2f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Matrix3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Matrix3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Matrix3f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Matrix3f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/MatrixUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/MatrixUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Plane3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Plane3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/PrimalQuery2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/PrimalQuery2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Quaterniond.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Quaterniond.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Quaternionf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Quaternionf.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Query2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Query2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Query2Integer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Query2Integer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/QueryTuple2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/QueryTuple2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Ray3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Ray3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/ScalarMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/ScalarMap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Segment2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Segment2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Segment3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Segment3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/TransformSequence.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/TransformSequence.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/TransformSequence2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/TransformSequence2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Triangle2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Triangle2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Triangle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Triangle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector2f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector2f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector2i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector2i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector3f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector3f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector3i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector3i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector4d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector4d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/Vector4f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/Vector4f.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/VectorTuple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/math/VectorTuple.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/DMesh3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/DMesh3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/DMesh3Builder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/DMesh3Builder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/DMesh3Changes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/DMesh3Changes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/DMesh3_debug.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/DMesh3_debug.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/DMesh3_edge_operators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/DMesh3_edge_operators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/DSubmesh3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/DSubmesh3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/DSubmesh3Set.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/DSubmesh3Set.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/EdgeLoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/EdgeLoop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/EdgeLoopRemesher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/EdgeLoopRemesher.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/EdgeSpan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/EdgeSpan.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/FaceGroupOptimizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/FaceGroupOptimizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/FaceGroupUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/FaceGroupUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/IMesh.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/IMesh.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshCaches.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshCaches.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshConstraintUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshConstraintUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshConstraints.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshConstraints.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshDecomposition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshDecomposition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshIndexUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshIndexUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshIterators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshIterators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshMeasurements.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshMeasurements.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshNormals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshNormals.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshPointSets.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshPointSets.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshRefinerBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshRefinerBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshTransforms.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshTransforms.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshUVSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshUVSet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/MeshWeights.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/MeshWeights.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/NTMesh3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/NTMesh3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/Reducer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/Reducer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/RegionRemesher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/RegionRemesher.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/Remesher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/Remesher.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/RemesherPro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/RemesherPro.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/SimpleMesh.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/SimpleMesh.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh/SimpleQuadMesh.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh/SimpleQuadMesh.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/ArrowGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/ArrowGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/BoxGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/BoxGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/CylinderGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/CylinderGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/DiscGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/DiscGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/GenCylGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/GenCylGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/MarchingCubes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/MarchingCubes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/MarchingCubesPro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/MarchingCubesPro.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/MeshGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/MeshGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/PlaneGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/PlaneGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/PointsMeshGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/PointsMeshGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/RevolveGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/RevolveGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/SphereGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/SphereGenerators.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/TriangulatedPolygonGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/TriangulatedPolygonGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_generators/VoxelSurfaceGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_generators/VoxelSurfaceGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/AutoHoleFill.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/AutoHoleFill.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/LaplacianMeshDeformer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/LaplacianMeshDeformer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/LaplacianMeshSmoother.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/LaplacianMeshSmoother.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MergeCoincidentEdges.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MergeCoincidentEdges.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshAssembly.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshAssembly.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshAutoRepair.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshAutoRepair.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshBoolean.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshBoolean.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshExtrudeFaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshExtrudeFaces.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshExtrudeLoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshExtrudeLoop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshExtrudeMesh.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshExtrudeMesh.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshICP.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshICP.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshInsertPolygon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshInsertPolygon.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshInsertProjectedPolygon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshInsertProjectedPolygon.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshInsertUVPolyCurve.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshInsertUVPolyCurve.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshIsoCurves.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshIsoCurves.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshIterativeSmooth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshIterativeSmooth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshLocalParam.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshLocalParam.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshLoopClosure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshLoopClosure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshLoopSmooth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshLoopSmooth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshMeshCut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshMeshCut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshOps.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshOps.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshPlaneCut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshPlaneCut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshRepairOrientation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshRepairOrientation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshSpatialSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshSpatialSort.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshStitchLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshStitchLoops.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshTopology.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshTopology.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MeshTrimLoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MeshTrimLoop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/MinimalHoleFill.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/MinimalHoleFill.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/PlanarHoleFiller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/PlanarHoleFiller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/PlanarSpansFiller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/PlanarSpansFiller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/RegionOperator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/RegionOperator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/RemoveDuplicateTriangles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/RemoveDuplicateTriangles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/RemoveOccludedTriangles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/RemoveOccludedTriangles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/SimpleHoleFiller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/SimpleHoleFiller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_ops/SmoothedHoleFill.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_ops/SmoothedHoleFill.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_selection/MeshBoundaryLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_selection/MeshBoundaryLoops.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_selection/MeshConnectedComponents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_selection/MeshConnectedComponents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_selection/MeshEdgeSelection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_selection/MeshEdgeSelection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_selection/MeshFaceSelection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_selection/MeshFaceSelection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_selection/MeshFacesFromLoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_selection/MeshFacesFromLoop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_selection/MeshRegionBoundaryLoops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_selection/MeshRegionBoundaryLoops.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesh_selection/MeshVertexSelection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/mesh_selection/MeshVertexSelection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queries/IntersectionUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/queries/IntersectionUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queries/MeshQueries.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/queries/MeshQueries.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queries/MeshValidation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/queries/MeshValidation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queries/RayIntersection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/queries/RayIntersection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes3/Circle3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/shapes3/Circle3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes3/Cylinder3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/shapes3/Cylinder3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/CholeskyDecomposition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/CholeskyDecomposition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/DenseMatrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/DenseMatrix.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/DenseVector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/DenseVector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/FastQuaternionSVD.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/FastQuaternionSVD.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/IMatrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/IMatrix.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/PackedSparseMatrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/PackedSparseMatrix.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/SingularValueDecomposition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/SingularValueDecomposition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/SparseMatrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/SparseMatrix.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/SparseSymmetricCG.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/SparseSymmetricCG.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solvers/SymmetricEigenSolver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/solvers/SymmetricEigenSolver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/BasicIntersectionTargets.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/BasicIntersectionTargets.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/BasicProjectionTargets.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/BasicProjectionTargets.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/BiGrid3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/BiGrid3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/Bitmap2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/Bitmap2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/Bitmap3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/Bitmap3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/DCurveBoxTree.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/DCurveBoxTree.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/DCurveProjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/DCurveProjection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/DMeshAABBTree.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/DMeshAABBTree.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/DSparseGrid3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/DSparseGrid3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/DenseGrid2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/DenseGrid2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/DenseGrid3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/DenseGrid3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/EditMeshSpatial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/EditMeshSpatial.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/GridIndexing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/GridIndexing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/GridIndexing2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/GridIndexing2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/MeshScalarSamplingGrid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/MeshScalarSamplingGrid.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/MeshSignedDistanceGrid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/MeshSignedDistanceGrid.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/MeshWindingNumberGrid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/MeshWindingNumberGrid.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/NormalHistogram.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/NormalHistogram.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/PointAABBTree3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/PointAABBTree3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/PointHashGrid2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/PointHashGrid2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/PointHashGrid3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/PointHashGrid3d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/PointSetHashtable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/PointSetHashtable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/Polygon2dBoxTree.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/Polygon2dBoxTree.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/SegmentHashGrid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/SegmentHashGrid.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/SegmentSet2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/SegmentSet2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/SpatialFunctions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/SpatialFunctions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/SpatialInterfaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/SpatialInterfaces.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spatial/TriangleBinsGrid2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/spatial/TriangleBinsGrid2d.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -355,6 +32,8 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Runtime/curve/Arc2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Runtime/mesh_ops/MeshExtrudeLoop.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Runtime/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -429,7 +108,7 @@
       <updated>1597920707399</updated>
       <workItem from="1597920733183" duration="3177000" />
       <workItem from="1597924296539" duration="16000" />
-      <workItem from="1597924327186" duration="2000" />
+      <workItem from="1597924327186" duration="958000" />
     </task>
     <task id="LOCAL-00001" summary="Removed usage of G3_USING_UNITY preprocessor definition, and added an assembly reference to UnityEngine.dll">
       <created>1597922854297</created>
@@ -438,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597922854297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed directory structure to make a Unity package.">
+      <created>1597924647978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597924647978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,17 +147,18 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Removed usage of G3_USING_UNITY preprocessor definition, and added an assembly reference to UnityEngine.dll" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed usage of G3_USING_UNITY preprocessor definition, and added an assembly reference to UnityEngine.dll" />
+    <MESSAGE value="Changed directory structure to make a Unity package." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed directory structure to make a Unity package." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="329" key="Rider.ProjectTemplateDialog.Size" timestamp="1597924116665">
+    <state x="690" y="329" key="Rider.ProjectTemplateDialog.Size" timestamp="1597925156891">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="690" y="329" key="Rider.ProjectTemplateDialog.Size/0.0.2194.1194@0.0.2194.1194" timestamp="1597924116665" />
-    <state x="690" y="330" key="Vcs.Push.Dialog.v2" timestamp="1597922858327">
+    <state x="690" y="329" key="Rider.ProjectTemplateDialog.Size/0.0.2194.1194@0.0.2194.1194" timestamp="1597925156891" />
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2" timestamp="1597924652289">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="690" y="330" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1597922858327" />
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2/0.0.2194.1194@0.0.2194.1194" timestamp="1597924652289" />
     <state x="760" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1597920795231">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
