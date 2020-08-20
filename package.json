@@ -1,0 +1,14 @@
+{
+    "name": "com.gradientspace.geometry3sharp",
+    "displayName": "Geometry3Sharp",
+    "version": "1.0.323-unity",
+    "unity": "2019.2",
+    "description": "C# library for 2D/3D geometric computation, mesh algorithms, and so on. Boost license.",
+    "author": "Ryan Schmidt/gradientspace",
+    "keywords": [
+        "geometry",
+        "mesh",
+        "unity"
+    ],
+    "category": "Unity"
+}
