@@ -1,8 +1,6 @@
 ﻿using System;
 
-#if G3_USING_UNITY
 using UnityEngine;
-#endif
 
 namespace g3
 {
@@ -33,7 +31,6 @@ namespace g3
         }
 
 
-#if G3_USING_UNITY
         public static implicit operator Colorb(UnityEngine.Color32 c)
         {
             return new Colorb(c.r, c.g, c.b, c.a);
@@ -42,7 +39,6 @@ namespace g3
         {
             return new Color32(c.r, c.g, c.b, c.a);
         }
-#endif
 
     }
 }

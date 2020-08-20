@@ -1,8 +1,6 @@
 using System;
 
-#if G3_USING_UNITY
 using UnityEngine;
-#endif
 
 namespace g3
 {
@@ -260,7 +258,6 @@ namespace g3
         }
 
 
-#if G3_USING_UNITY
         public static implicit operator AxisAlignedBox2f(UnityEngine.Rect b)
         {
             return new AxisAlignedBox2f(b.min, b.max);
@@ -271,7 +268,5 @@ namespace g3
             ub.min = b.Min; ub.max = b.Max;
             return ub;
         }
-#endif
-
     }
 }

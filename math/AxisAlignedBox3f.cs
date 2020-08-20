@@ -1,8 +1,6 @@
 ﻿using System;
 
-#if G3_USING_UNITY
 using UnityEngine;
-#endif
 
 namespace g3
 {
@@ -305,7 +303,6 @@ namespace g3
 
 
 
-#if G3_USING_UNITY
         public static implicit operator AxisAlignedBox3f(UnityEngine.Bounds b)
         {
             return new AxisAlignedBox3f(b.min, b.max);
@@ -316,7 +313,6 @@ namespace g3
             ub.SetMinMax(b.Min, b.Max);
             return ub;
         }
-#endif
 
 
     }

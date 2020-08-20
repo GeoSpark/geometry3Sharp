@@ -43,6 +43,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.10f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="approximation\BiArcFit2.cs" />
@@ -344,9 +347,6 @@
     <Compile Include="curve\Hexagon2.cs" />
     <Compile Include="solvers\CholeskyDecomposition.cs" />
     <Compile Include="spatial\Bitmap2.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

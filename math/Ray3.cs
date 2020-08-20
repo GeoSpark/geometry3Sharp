@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-#if G3_USING_UNITY
 using UnityEngine;
-#endif
 
 namespace g3
 {
@@ -73,7 +71,6 @@ namespace g3
         }
 
 
-#if G3_USING_UNITY
         public static implicit operator Ray3d(UnityEngine.Ray r)
         {
             return new Ray3d(r.origin, ((Vector3d)r.direction).Normalized);
@@ -82,7 +79,6 @@ namespace g3
         {
             return new Ray((Vector3)r.Origin, ((Vector3)r.Direction).normalized);
         }
-#endif
 
     }
 
@@ -120,7 +116,6 @@ namespace g3
         }
 
 
-#if G3_USING_UNITY
         public static implicit operator Ray3f(UnityEngine.Ray r)
         {
             return new Ray3f(r.origin, r.direction);
@@ -129,6 +124,5 @@ namespace g3
         {
             return new Ray(r.Origin, r.Direction);
         }
-#endif
     }
 }

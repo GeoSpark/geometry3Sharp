@@ -1,8 +1,6 @@
 ﻿using System;
 
-#if G3_USING_UNITY
 using UnityEngine;
-#endif
 
 
 namespace g3
@@ -415,7 +413,6 @@ namespace g3
         }
 
 
-#if G3_USING_UNITY
         public static implicit operator Quaternionf(Quaternion q)
         {
             return new Quaternionf(q.x, q.y, q.z, q.w);
@@ -424,7 +421,6 @@ namespace g3
         {
             return new Quaternion(q.x, q.y, q.z, q.w);
         }
-#endif
 
     }
 }

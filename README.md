@@ -2,7 +2,7 @@
 
 Open-Source (Boost-license) C# library for geometric computing. 
 
-geometry3Sharp is compatible with Unity. Set the G3_USING_UNITY Scripting Define and you will have transparent interop between g3 and Unity vector types (*see details at the very bottom of this README*). Although the library is written for C# 4.5, if you are using the .NET 3.5 Unity runtime, it will still work, just with a few missing features.
+geometry3Sharp is compatible with Unity.
 
 Currently there is a small amount of unsafe code, however this code is only used in a few fast-buffer-copy routines, which can be deleted if you need a safe version (eg for Unity web player).
 
@@ -381,10 +381,8 @@ Several tutorials for using g3Sharp have been posted on the Gradientspace blog:
 # Unity Interop
 
 geometry3Sharp supports transparent conversion with Unity types.
-To enable this, define **G3_USING_UNITY** in your Unity project, by adding this
-string to the **Scripting Define Symbols** box in the **Player Settings**.  
 
-Once enabled, code like this will work transparently:
+Code like this will work transparently:
 
 ~~~~
 Vector3 unityVec;

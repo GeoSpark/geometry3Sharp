@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fac6d60-8e57-4561-bc63-ff9c8c19fa46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.geometry3Sharp.dir/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/color/Colorb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/color/Colorb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/color/Colorf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/color/Colorf.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/BufferUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/core/BufferUtil.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Util.cs" beforeDir="false" afterPath="$PROJECT_DIR$/core/Util.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/gParallel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/core/gParallel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geometry3Sharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/geometry3Sharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox2f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/AxisAlignedBox2f.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/AxisAlignedBox3f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/AxisAlignedBox3f.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Quaterniond.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Quaterniond.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Quaternionf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Quaternionf.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Ray3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Ray3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Vector2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Vector2d.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Vector2f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Vector2f.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Vector3d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Vector3d.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Vector3f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Vector3f.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Vector4d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Vector4d.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math/Vector4f.cs" beforeDir="false" afterPath="$PROJECT_DIR$/math/Vector4f.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mesh_generators/MeshGenerators.cs" beforeDir="false" afterPath="$PROJECT_DIR$/mesh_generators/MeshGenerators.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/color/Colorb.cs" />
+        <option value="$PROJECT_DIR$/color/Colorf.cs" />
+        <option value="$PROJECT_DIR$/core/BufferUtil.cs" />
+        <option value="$PROJECT_DIR$/core/gParallel.cs" />
+        <option value="$PROJECT_DIR$/core/Util.cs" />
+        <option value="$PROJECT_DIR$/math/AxisAlignedBox2f.cs" />
+        <option value="$PROJECT_DIR$/math/AxisAlignedBox3f.cs" />
+        <option value="$PROJECT_DIR$/math/Quaterniond.cs" />
+        <option value="$PROJECT_DIR$/math/Quaternionf.cs" />
+        <option value="$PROJECT_DIR$/math/Vector2d.cs" />
+        <option value="$PROJECT_DIR$/math/Ray3.cs" />
+        <option value="$PROJECT_DIR$/math/Vector2f.cs" />
+        <option value="$PROJECT_DIR$/math/Vector3d.cs" />
+        <option value="$PROJECT_DIR$/math/Vector3f.cs" />
+        <option value="$PROJECT_DIR$/math/Vector4d.cs" />
+        <option value="$PROJECT_DIR$/math/Vector4f.cs" />
+        <option value="$PROJECT_DIR$/mesh_generators/MeshGenerators.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gMNsRWfL7dJXYKDBAgBNez3qSj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fac6d60-8e57-4561-bc63-ff9c8c19fa46" name="Default Changelist" comment="" />
+      <created>1597920707399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597920707399</updated>
+      <workItem from="1597920733183" duration="1809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1597920795231">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="760" y="264" width="672" height="678" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1597920795231" />
+  </component>
+</project>

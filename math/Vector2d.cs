@@ -281,7 +281,6 @@ namespace g3
         }
 
 
-#if G3_USING_UNITY
         public static implicit operator Vector2d(UnityEngine.Vector2 v)
         {
             return new Vector2d(v.x, v.y);
@@ -290,7 +289,6 @@ namespace g3
         {
             return new UnityEngine.Vector2((float)v.x, (float)v.y);
         }
-#endif
 
 
 

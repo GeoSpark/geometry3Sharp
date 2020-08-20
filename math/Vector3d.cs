@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-#if G3_USING_UNITY
 using UnityEngine;
-#endif
 
 namespace g3
 {
@@ -345,7 +343,6 @@ namespace g3
         }
 
 
-#if G3_USING_UNITY
         public static implicit operator Vector3d(UnityEngine.Vector3 v)
         {
             return new Vector3d(v.x, v.y, v.z);
@@ -354,7 +351,6 @@ namespace g3
         {
             return new Vector3((float)v.x, (float)v.y, (float)v.z);
         }
-#endif
 
 
 
